@@ -1,1 +1,1 @@
-require('./tailwind.css')
+require('tailwindcss/tailwind.css')
